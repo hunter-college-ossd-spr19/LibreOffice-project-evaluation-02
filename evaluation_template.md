@@ -23,7 +23,7 @@ Replace this with answer
 1. How frequently do people commit?
 Compute the number of commits per week for the past twelve weeks.
 
-Replace this with answer
+3,683 (Total from October to December per open hub).
 
 1. How many issues are currently open?
 
@@ -37,19 +37,19 @@ Replace this with answer
 
 1. Is there active discussion on the issues?
 
-Replace this with answer
+Yes there is active discussions
 
 1. Are issues tagged as easy, hard, etc.?
 
-Replace this with answer
+No, they're not tagged by difficulty. They are assigned by importance and whether they're open, closed, etc.
 
 1. Are they triaged?
 
-Replace this with answer
+Yes, they have tags to identify urgency.
 
 1. How many issues were closed in the past six months?
 
-Replace this with answer
+52
 
 1. How many open pull requests are there?
 
